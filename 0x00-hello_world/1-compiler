@@ -1,0 +1,2 @@
+#!/bin/bashh
+gcc -c $CFILE
