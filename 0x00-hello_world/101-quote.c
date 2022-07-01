@@ -1,14 +1,17 @@
 #include <stdio.h>
 #include <unistd.h>
+
 /**
- * main - prints and that piece of art
+ * main - print quote
  *
- * Description: Program prints a quote
+ * Description: prints Dora's quote
  *
- * Return: Always 1 (Sucess)
+ * Return: Always 1 (Success)
  */
 
 int main(void)
 {
-	write(2, "and that piece of art is useful\" - Dora Korpa, 2015-10-19\n" 67);
+	write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
 	return (1);
+}
+
