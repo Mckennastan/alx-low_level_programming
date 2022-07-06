@@ -1,1 +1,1 @@
-This a nested loop Readme
+This readme file for the nested loop for the project folder
