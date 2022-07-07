@@ -1,4 +1,4 @@
-#include "main.h"
+i#include "main.h"
 
 /**
  * print_times_table - print multiplication table up to n
@@ -42,7 +42,7 @@ void print_times_table(int n)
 						_putchar('0' + ((product / 10) % 10));
 						_putchar('0' + (product % 10));
 					}
-i				}
+				}
 			}
 			_putchar('\n');
 		}
