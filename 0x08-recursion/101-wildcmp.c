@@ -37,9 +37,9 @@ char *wildcard(char *s3, char *s4)
 }
 
 /**
- * wildcmp - compares two strings effectively
+ * wildcmp - compares two strings
  * @s1: first string
- * @s2: second string, may contain wildcard *
+ * @s2: 2nd string, may contain wildcard *
  *
  * Return: 1 if match, 0 if not
  */
